@@ -1,0 +1,27 @@
+{
+  "name": "node-github-demo",
+  "version": "1.0.0",
+  "description": "node-github-demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hr-Boesen/node-github-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hr-Boesen/node-github-demo/issues"
+  },
+  "homepage": "https://github.com/Hr-Boesen/node-github-demo#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "supertest": "^6.0.1"
+  }
+}
