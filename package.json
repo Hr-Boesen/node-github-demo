@@ -4,21 +4,11 @@
   "description": "node-github-demo",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./test/* --exit"
   },
   "repository": {
     "type": "git",
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
     "url": "git+https://github.com/Hr-Boesen/node-github-demo.git"
-=======
-    "url": "git+https://github.com/Hr-Boesen/node-github-demo.git",
-    "test": "mocha ./test/* --exit"
->>>>>>> Stashed changes
-=======
-    "url": "git+https://github.com/Hr-Boesen/node-github-demo.git",
-    "test": "mocha ./test/* --exit"
->>>>>>> Stashed changes
   },
   "keywords": [],
   "author": "",
