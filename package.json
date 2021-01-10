@@ -8,7 +8,12 @@
   },
   "repository": {
     "type": "git",
+<<<<<<< Updated upstream
     "url": "git+https://github.com/Hr-Boesen/node-github-demo.git"
+=======
+    "url": "git+https://github.com/Hr-Boesen/node-github-demo.git",
+    "test": "mocha ./test/* --exit"
+>>>>>>> Stashed changes
   },
   "keywords": [],
   "author": "",
